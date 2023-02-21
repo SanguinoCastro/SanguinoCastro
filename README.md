@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hola, soy Eduard Sanguino 👋
 
 <!--
 **SanguinoCastro/SanguinoCastro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
