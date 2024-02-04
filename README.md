@@ -8,7 +8,7 @@ Soy un entusiasta de la programación que dejó atrás el sector de la metalurgi
 La empresa Cintelec decidió darme una oportunidad pidiéndome que le desarrollase su página web, dándome vía libre a la imaginación.
 Desarrolle la web con Next.js y la cree desde cero, textos, imágenes, etc.
 
-Si queréis echarle un vistazo, podéis ir a su web: [cintelec.com] (https://cintelec.com).
+Si queréis echarle un vistazo, podéis ir a su web: [cintelec.com](https://cintelec.com).
 
 ### Actualmente
 Actualmente me hallo desarrollando mi portfolio personal.
